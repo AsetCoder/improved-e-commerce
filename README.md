@@ -2,9 +2,14 @@ For Install project
 ```
 npm install 
 ```
-add this file Put postgres database and others in env
+Add File
 ```
 .env
+```
+Fill this in .env File
+```
+DATABASE_URL = "postgresql://username:password@localhost:5432/pgs?schema=public"
+JWT_SECRET = 
 ```
 
 For update database and add all models 
