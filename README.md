@@ -2,7 +2,7 @@ For Install project
 ```
 npm install 
 ```
-Put postgres database and others in env
+add this file Put postgres database and others in env
 ```
 .env
 ```
